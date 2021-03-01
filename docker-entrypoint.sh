@@ -58,7 +58,7 @@ eval $(ssh-agent)
 ssh-add ~/.ssh/id_rsa
 
 
-echo "Add known hosts"
+echo "Add known hosts ABCD"
 echo Remote: $INPUT_REMOTE_DOCKER_HOST
 echo Host: $SSH_HOST
 echo Port: $INPUT_SSH_PORT
