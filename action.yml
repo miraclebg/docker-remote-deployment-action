@@ -32,7 +32,7 @@ inputs:
 
 runs:
   using: docker
-  image: docker://miraclebg/docker-remote-deployment-action:v1.1
+  image: docker://miraclebg/docker-remote-deployment-action:v1.2
 
 
 branding:
